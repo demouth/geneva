@@ -1,5 +1,7 @@
 # Geneva Web Framework
 
+[![Go](https://github.com/demouth/geneva/actions/workflows/go.yml/badge.svg)](https://github.com/demouth/geneva/actions/workflows/go.yml)
+
 Geneva is a simple Gin-like web framework written in Golang.
 
 ## Running Geneva
